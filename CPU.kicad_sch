@@ -3548,6 +3548,32 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 46.99 50.8)
+		(end 195.58 140.97)
+		(stroke
+			(width 0)
+			(type default)
+			(color 240 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 78347ea9-eb6d-422e-a575-402de13c14d2)
+	)
+	(rectangle
+		(start 149.86 24.13)
+		(end 212.09 49.53)
+		(stroke
+			(width 0)
+			(type default)
+			(color 252 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f90f6bdd-b08a-4758-9b5c-a8c4ebc48b9d)
+	)
 	(junction
 		(at 172.72 132.08)
 		(diameter 0)
