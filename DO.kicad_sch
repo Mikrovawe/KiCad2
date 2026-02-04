@@ -2312,6 +2312,32 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 267.97 43.18)
+		(end 326.39 256.54)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 252 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5468cc34-4eab-4b50-9c24-8753651cd2d8)
+	)
+	(rectangle
+		(start 64.77 43.18)
+		(end 265.43 256.54)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 252 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 90b6601b-d113-4f2b-b2d2-06c8cf1c725d)
+	)
 	(text "Max 24V DC"
 		(exclude_from_sim no)
 		(at 309.626 108.712 0)

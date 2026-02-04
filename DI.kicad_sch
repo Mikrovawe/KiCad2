@@ -2338,6 +2338,32 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 200.66 22.86)
+		(end 311.15 274.32)
+		(stroke
+			(width 0)
+			(type default)
+			(color 244 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 01363377-ba1a-48e3-8bf7-54e67b3bef89)
+	)
+	(rectangle
+		(start 39.37 22.86)
+		(end 199.39 243.84)
+		(stroke
+			(width 0)
+			(type default)
+			(color 244 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 2b3b122f-934d-4e1c-8039-e8d7b7e1f25a)
+	)
 	(text "Low state 0 V\nHigh state 24 V\n"
 		(exclude_from_sim no)
 		(at 43.942 159.258 0)

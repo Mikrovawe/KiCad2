@@ -1769,6 +1769,32 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 95.25 63.5)
+		(end 151.13 133.35)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 249 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 46bbaca3-6c76-4b4f-a0ea-c3abf749deab)
+	)
+	(rectangle
+		(start 151.13 63.5)
+		(end 210.82 133.35)
+		(stroke
+			(width 0)
+			(type default)
+			(color 251 0 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ad8d9d22-e325-4142-b3cb-20e0458eb85f)
+	)
 	(text "RS-485 \n(Modbus-RTU)\n"
 		(exclude_from_sim no)
 		(at 202.946 87.376 0)

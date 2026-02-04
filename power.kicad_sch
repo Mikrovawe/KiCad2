@@ -2465,6 +2465,191 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 97.79 95.25)
+		(end 118.11 113.03)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1c20a91b-a06b-4ba1-8659-94b0b6561f49)
+	)
+	(rectangle
+		(start 110.49 148.59)
+		(end 132.08 165.1)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 2de4c246-34e7-4ac2-8930-4a56dda6736a)
+	)
+	(rectangle
+		(start 118.11 95.25)
+		(end 138.43 113.03)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 312eb818-97f4-40d0-80d7-e863ba6e79e2)
+	)
+	(rectangle
+		(start 92.71 173.99)
+		(end 111.76 191.77)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 32cd5e65-faf0-4668-a839-2ee0da826022)
+	)
+	(rectangle
+		(start 43.18 78.74)
+		(end 81.28 190.5)
+		(stroke
+			(width 0)
+			(type default)
+			(color 253 1 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 383e2a70-2877-4b2b-a9f4-bb91b0f379db)
+	)
+	(rectangle
+		(start 48.26 34.29)
+		(end 82.55 73.66)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 9 241 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 51266ba0-171e-4925-bf52-b0d3202b78ba)
+	)
+	(rectangle
+		(start 99.06 133.35)
+		(end 119.38 148.59)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 54665e23-4e51-4e56-a044-e682329c5847)
+	)
+	(rectangle
+		(start 111.76 173.99)
+		(end 132.08 191.77)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 882644b1-dbce-4ccb-a39c-62bac1ca1822)
+	)
+	(rectangle
+		(start 139.7 25.4)
+		(end 201.93 74.93)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 9 241 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 9313248f-2184-497d-bea3-0bafe6a21547)
+	)
+	(rectangle
+		(start 138.43 95.25)
+		(end 158.75 113.03)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 97405b82-4bc0-4563-a404-33e2fe0afcd8)
+	)
+	(rectangle
+		(start 132.08 173.99)
+		(end 152.4 191.77)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b31209ae-1bad-4f68-b5e7-09f78fb054c1)
+	)
+	(rectangle
+		(start 83.82 34.29)
+		(end 128.27 73.66)
+		(stroke
+			(width 0)
+			(type default)
+			(color 250 7 255 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b3127918-ded0-42e8-a828-6db90e98cdf7)
+	)
+	(rectangle
+		(start 119.38 133.35)
+		(end 139.7 148.59)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c92c3c0f-65d4-4047-b874-23774fc5f1b2)
+	)
+	(rectangle
+		(start 191.77 115.57)
+		(end 246.38 156.21)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 9 241 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid cb50fb20-b53d-4b1a-b72c-023f718dfb25)
+	)
+	(rectangle
+		(start 158.75 95.25)
+		(end 179.07 113.03)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ed37218e-851c-4d3c-b9ef-dbdeab69dcde)
+	)
 	(text "Safety Ground\n"
 		(exclude_from_sim no)
 		(at 229.87 120.396 0)
