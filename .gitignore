@@ -1,4 +1,5 @@
 # KiCad temp & backup
+*.lck
 *.bak
 *.bck
 *.kicad_prl
