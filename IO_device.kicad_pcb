@@ -1984,13 +1984,13 @@
 	(footprint "Project:1461267-1"
 		(layer "F.Cu")
 		(uuid "0f6a06a1-4df7-48e9-9714-000366f3468d")
-		(at 166.624 129.032)
+		(at 166.624 130.495)
 		(descr "Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf")
 		(tags "Relay SPDT Omron Serie G5Q")
 		(property "Reference" "K1"
 			(at 9.5 -10.5 0)
 			(layer "F.SilkS")
-			(uuid "03938fa5-4779-401f-a39b-470a975742ac")
+			(uuid "d59fa382-4e8a-4217-94e7-a45269d3419f")
 			(effects
 				(font
 					(size 1 1)
@@ -1999,9 +1999,9 @@
 			)
 		)
 		(property "Value" "SDT-S-103DMR,000"
-			(at 9 3 0)
+			(at 6.1534 2.9492 0)
 			(layer "F.Fab")
-			(uuid "7233bc03-8dc3-496e-80be-dfb749b7b0b8")
+			(uuid "fb2f9a6b-3e24-4554-96c1-1c86789b5f36")
 			(effects
 				(font
 					(size 1 1)
@@ -2014,7 +2014,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c1ca3b6-5d2b-4cb6-b9f7-548d995c961a")
+			(uuid "39db30e8-d28b-4022-814c-db726e16d776")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2027,7 +2027,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "00491aa1-e16d-4df5-9fda-e3e9a74273fa")
+			(uuid "930e5dfb-dbd9-4e78-b54b-bf531f0b39c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3225,7 +3225,7 @@
 	(footprint "Project:1461267-1"
 		(layer "F.Cu")
 		(uuid "1e65b5d1-0f53-4048-b38c-9d5d05025fa2")
-		(at 166.509 115.56)
+		(at 166.509 117.084)
 		(descr "Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf")
 		(tags "Relay SPDT Omron Serie G5Q")
 		(property "Reference" "K2"
@@ -5280,7 +5280,7 @@
 	(footprint "Varistor:RV_Disc_D12mm_W5.1mm_P7.5mm"
 		(layer "F.Cu")
 		(uuid "50e2e4c8-96db-4913-a1ae-3a611c1ae6ea")
-		(at 191.516 116.018 90)
+		(at 191.516 117.542 90)
 		(descr "Varistor, diameter 12mm, width 5.1mm, pitch 7.5mm")
 		(tags "varistor SIOV")
 		(property "Reference" "RV4"
@@ -6365,7 +6365,7 @@
 	(footprint "Converter_DCDC:Converter_DCDC_TRACO_TBA1-xxxxE_Dual_THT"
 		(layer "F.Cu")
 		(uuid "55e4c6c9-807b-4203-bc0d-3d6c608399bc")
-		(at 184.7088 136.9568 -90)
+		(at 181.8622 137.668 -90)
 		(descr "DCDC-Converter, TRACO, TBA1-xxxxE, Dual, 1W, Rev. October 31. 2023, https://www.tracopower.com/products/tba1e.pdf, generated with kicad-footprint-generator StandardBox_generator.py")
 		(tags "DCDC-Converter TRACO TBA1E THT SIP-7 1W")
 		(property "Reference" "U25"
@@ -8249,7 +8249,7 @@
 	(footprint "Project:1461267-1"
 		(layer "F.Cu")
 		(uuid "76906cee-4148-4ab5-b03e-5474ddb414f2")
-		(at 166.509 102.86)
+		(at 165.872 103.368)
 		(descr "Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf")
 		(tags "Relay SPDT Omron Serie G5Q")
 		(property "Reference" "K3"
@@ -9363,7 +9363,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "94d096b0-d6d9-4165-9547-238abfda6d58")
-		(at 202.8595 102.108 90)
+		(at 202.8595 102.616 90)
 		(descr "Terminal Block Phoenix MKDS-3-2-5.08, 2 pins, pitch 5.08mm, size 10.2x11.2mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MKDS-3-2-5.08 pitch 5.08mm size 10.2x11.2mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J5"
@@ -9754,13 +9754,13 @@
 	(footprint "Varistor:RV_Disc_D12mm_W5.1mm_P7.5mm"
 		(layer "F.Cu")
 		(uuid "98287320-2a50-48f0-b47c-9e6b61dfec04")
-		(at 191.516 129.032 90)
+		(at 191.516 130.495 90)
 		(descr "Varistor, diameter 12mm, width 5.1mm, pitch 7.5mm")
 		(tags "varistor SIOV")
 		(property "Reference" "RV3"
 			(at 3.75 4.7 90)
 			(layer "F.SilkS")
-			(uuid "989c50cd-1622-4fbd-9c71-3916d2e886da")
+			(uuid "0e4c7d79-8dbe-4820-950e-6a2da26c2a5f")
 			(effects
 				(font
 					(size 1 1)
@@ -9771,7 +9771,7 @@
 		(property "Value" "S10K30"
 			(at 3.75 -2.4 90)
 			(layer "F.Fab")
-			(uuid "d7079144-9f93-49d3-a9f8-1b8b3a41298b")
+			(uuid "0fece21c-5116-45df-bcd9-437947e52568")
 			(effects
 				(font
 					(size 1 1)
@@ -9784,7 +9784,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "af8123bb-3ea5-4ea4-9471-c8b42b166e93")
+			(uuid "e0597c40-817e-436d-bb0e-b92fe0af0b9f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9797,7 +9797,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f31fc90-a6f8-4a90-8b42-83a7cb683019")
+			(uuid "e38df164-d2db-49ff-8157-4d0b2478a342")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13740,13 +13740,13 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e4bd6829-dc61-4d2b-870b-09e948457774")
-		(at 202.8595 127.569 90)
+		(at 202.8595 128.529 90)
 		(descr "Terminal Block Phoenix MKDS-3-2-5.08, 2 pins, pitch 5.08mm, size 10.2x11.2mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MKDS-3-2-5.08 pitch 5.08mm size 10.2x11.2mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J3"
 			(at 2.54 -7.02 90)
 			(layer "F.SilkS")
-			(uuid "5c99c65e-90bf-4e29-858f-97400afb5730")
+			(uuid "adc42c0a-45e2-4957-8cbf-2d87688308bf")
 			(effects
 				(font
 					(size 1 1)
@@ -13757,7 +13757,7 @@
 		(property "Value" "Screw_Terminal_01x02"
 			(at 2.54 6.42 90)
 			(layer "F.Fab")
-			(uuid "14dcb434-624e-426a-a402-3f2cd999cf65")
+			(uuid "e06993ff-6563-4007-ad1a-3c191a4840d8")
 			(effects
 				(font
 					(size 1 1)
@@ -13769,7 +13769,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6361e358-1c1e-415a-ba18-dec6d4b16664")
+			(uuid "47b2713f-beed-4a6b-88f2-9261b22cdfd3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13781,7 +13781,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "43080565-4d76-46f0-99f8-853b8f156517")
+			(uuid "9a858fb9-5cf2-4314-a05a-4aa88ae9001a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14451,11 +14451,11 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ea11a4de-d3c5-48f2-809a-0b6142be6dc6")
-		(at 202.8595 114.808 90)
+		(at 202.8595 116.332 90)
 		(descr "Terminal Block Phoenix MKDS-3-2-5.08, 2 pins, pitch 5.08mm, size 10.2x11.2mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MKDS-3-2-5.08 pitch 5.08mm size 10.2x11.2mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J4"
-			(at 2.54 -7.02 90)
+			(at 2.032 -7.02 90)
 			(layer "F.SilkS")
 			(uuid "9aba81d3-15e1-435d-bd53-eae77b52d301")
 			(effects
@@ -14793,7 +14793,7 @@
 			(uuid "d397b082-9811-426f-b2f5-8beb06221410")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 3.1 90)
+			(at 2.032 3.1 90)
 			(layer "F.Fab")
 			(uuid "551e0dcc-16f3-4ec3-b7be-8e989c1d7ae9")
 			(effects
@@ -19607,7 +19607,7 @@
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "0e97be83-eba5-43f0-93a4-86b1f7b63873")
-		(at 176.784 134.62 180)
+		(at 173.9374 135.128 180)
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C76"
@@ -38009,7 +38009,7 @@
 	(footprint "Capacitor_SMD:CP_Elec_6.3x7.7"
 		(layer "B.Cu")
 		(uuid "69df49bc-057c-41b1-ab07-e5bfe76e444a")
-		(at 192.278 135.8392 180)
+		(at 192.532 136.144 180)
 		(descr "SMD capacitor, aluminum electrolytic, Nichicon, 6.3x7.7mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C46"
@@ -38676,7 +38676,7 @@
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "6ac6f5fc-b01b-4c02-8c67-1c3b28194bc8")
-		(at 172.0088 134.62)
+		(at 169.1622 135.128)
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C74"
@@ -54261,7 +54261,7 @@
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "b058ef98-c9ca-4522-9b26-9cdf987b7f49")
-		(at 183.2356 134.1628 180)
+		(at 180.389 134.6708 180)
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C50"
@@ -75116,6 +75116,334 @@
 		(layer "B.Cu")
 		(net 68)
 		(uuid "a2f0f4a5-c854-4e7e-b764-4a2d1a810860")
+	)
+	(segment
+		(start 194.27 123.449)
+		(end 193.816 122.995)
+		(width 2)
+		(layer "B.Cu")
+		(net 69)
+		(uuid "67a2e69f-fefe-4ddb-9b94-d79f17b867d2")
+	)
+	(segment
+		(start 186.624 130.495)
+		(end 186.624 130.187)
+		(width 2)
+		(layer "B.Cu")
+		(net 69)
+		(uuid "8a2cbf90-ffdc-46d3-9626-fa52b447356e")
+	)
+	(segment
+		(start 186.624 130.187)
+		(end 193.816 122.995)
+		(width 2)
+		(layer "B.Cu")
+		(net 69)
+		(uuid "b8bace8d-6faa-44da-aa0e-f65433b676d1")
+	)
+	(segment
+		(start 202.8595 123.449)
+		(end 194.27 123.449)
+		(width 2)
+		(layer "B.Cu")
+		(net 69)
+		(uuid "e99c58d8-270c-4fcd-8619-31b2258cfe59")
+	)
+	(segment
+		(start 202.8595 128.529)
+		(end 193.482 128.529)
+		(width 2)
+		(layer "B.Cu")
+		(net 70)
+		(uuid "0dff341a-ed87-4fdf-89cb-3961ed4c0b66")
+	)
+	(segment
+		(start 191.516 130.495)
+		(end 188.365 133.646)
+		(width 2)
+		(layer "B.Cu")
+		(net 70)
+		(uuid "45587383-74f1-4059-b067-4dd66b74d728")
+	)
+	(segment
+		(start 188.365 133.646)
+		(end 185.318813 133.646)
+		(width 2)
+		(layer "B.Cu")
+		(net 70)
+		(uuid "6073166f-b092-4bac-ba02-c8839a414ef3")
+	)
+	(segment
+		(start 193.482 128.529)
+		(end 191.516 130.495)
+		(width 2)
+		(layer "B.Cu")
+		(net 70)
+		(uuid "62a16920-344d-45cf-8559-ebe7880d51d1")
+	)
+	(segment
+		(start 185.318813 133.646)
+		(end 183.124 131.451187)
+		(width 2)
+		(layer "B.Cu")
+		(net 70)
+		(uuid "a0e5aa5f-2568-4ebf-94f0-483f40f0cb35")
+	)
+	(segment
+		(start 183.124 131.451187)
+		(end 183.124 122.875)
+		(width 2)
+		(layer "B.Cu")
+		(net 70)
+		(uuid "ad4ee890-ae73-4da9-bb93-b7afc3c17a33")
+	)
+	(segment
+		(start 186.774 117.084)
+		(end 193.816 110.042)
+		(width 2)
+		(layer "B.Cu")
+		(net 71)
+		(uuid "1d5467f5-fcfe-4b84-bdf1-bc3f1d0b769c")
+	)
+	(segment
+		(start 202.8595 111.252)
+		(end 195.026 111.252)
+		(width 2)
+		(layer "B.Cu")
+		(net 71)
+		(uuid "33759d9b-ed00-4825-99e2-1efcf877b271")
+	)
+	(segment
+		(start 195.026 111.252)
+		(end 193.816 110.042)
+		(width 2)
+		(layer "B.Cu")
+		(net 71)
+		(uuid "5e1b4ada-ed7b-45a9-bdb5-525cabc070c4")
+	)
+	(segment
+		(start 186.509 117.084)
+		(end 186.774 117.084)
+		(width 2)
+		(layer "B.Cu")
+		(net 71)
+		(uuid "b5b6573a-d0a9-4ced-9afd-8f3dc1546ce7")
+	)
+	(segment
+		(start 202.8595 116.332)
+		(end 192.726 116.332)
+		(width 2)
+		(layer "B.Cu")
+		(net 72)
+		(uuid "418adcd0-694f-4aab-882e-ac513145342a")
+	)
+	(segment
+		(start 183.009 118.040187)
+		(end 183.009 109.464)
+		(width 2)
+		(layer "B.Cu")
+		(net 72)
+		(uuid "44e68ff7-ab72-402f-bd37-a25b6528b7f6")
+	)
+	(segment
+		(start 185.203813 120.235)
+		(end 183.009 118.040187)
+		(width 2)
+		(layer "B.Cu")
+		(net 72)
+		(uuid "5d4f52e9-0b14-4130-a6ca-db7f790773ad")
+	)
+	(segment
+		(start 191.516 117.542)
+		(end 188.823 120.235)
+		(width 2)
+		(layer "B.Cu")
+		(net 72)
+		(uuid "761a2fd7-acac-4f8a-b4c7-5e9855e4ccf6")
+	)
+	(segment
+		(start 192.726 116.332)
+		(end 191.516 117.542)
+		(width 2)
+		(layer "B.Cu")
+		(net 72)
+		(uuid "80db5190-0b78-42a5-a276-1c121d9cebe6")
+	)
+	(segment
+		(start 188.823 120.235)
+		(end 185.203813 120.235)
+		(width 2)
+		(layer "B.Cu")
+		(net 72)
+		(uuid "885c745f-2007-4690-bc15-ded01ceb9705")
+	)
+	(segment
+		(start 184.566813 106.519)
+		(end 182.372 104.324187)
+		(width 2)
+		(layer "B.Cu")
+		(net 73)
+		(uuid "182f2178-8e8a-4df5-8062-bcbaef8ebac3")
+	)
+	(segment
+		(start 182.372 104.324187)
+		(end 182.372 95.748)
+		(width 2)
+		(layer "B.Cu")
+		(net 73)
+		(uuid "27c8779a-78e1-4e5f-9750-d47f06094f65")
+	)
+	(segment
+		(start 188.181 106.519)
+		(end 184.566813 106.519)
+		(width 2)
+		(layer "B.Cu")
+		(net 73)
+		(uuid "41b4bafe-386c-4693-8c25-c1cd79e1984b")
+	)
+	(segment
+		(start 202.8595 102.616)
+		(end 192.084 102.616)
+		(width 2)
+		(layer "B.Cu")
+		(net 73)
+		(uuid "7c8dc166-6977-474e-979f-bab981e4010a")
+	)
+	(segment
+		(start 192.084 102.616)
+		(end 191.382 103.318)
+		(width 2)
+		(layer "B.Cu")
+		(net 73)
+		(uuid "cf3afe99-700e-4fad-8ce3-96e57d0dac1f")
+	)
+	(segment
+		(start 191.382 103.318)
+		(end 188.181 106.519)
+		(width 2)
+		(layer "B.Cu")
+		(net 73)
+		(uuid "e76d2064-71e9-4d99-ade8-5230dedc1eee")
+	)
+	(segment
+		(start 186.132 103.368)
+		(end 193.682 95.818)
+		(width 2)
+		(layer "B.Cu")
+		(net 74)
+		(uuid "5222df12-3cf5-40ff-8267-bac77c01d1bc")
+	)
+	(segment
+		(start 202.8595 97.536)
+		(end 195.4 97.536)
+		(width 2)
+		(layer "B.Cu")
+		(net 74)
+		(uuid "b13ba81a-8f69-4054-a4e8-a6225e738454")
+	)
+	(segment
+		(start 185.872 103.368)
+		(end 186.132 103.368)
+		(width 2)
+		(layer "B.Cu")
+		(net 74)
+		(uuid "bafbac8e-d38b-491c-aee5-6ac2632349a2")
+	)
+	(segment
+		(start 195.4 97.536)
+		(end 193.682 95.818)
+		(width 2)
+		(layer "B.Cu")
+		(net 74)
+		(uuid "dc8ecadd-cd55-4f38-8952-4bac33c230d4")
+	)
+	(segment
+		(start 186.509 90.291)
+		(end 193.682 83.118)
+		(width 2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "05673d76-5951-4720-9f3f-05c2488f87c9")
+	)
+	(segment
+		(start 202.8595 84.328)
+		(end 194.892 84.328)
+		(width 2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "1d611d6b-1a9a-40ad-bed1-b51053fe3619")
+	)
+	(segment
+		(start 186.509 90.668)
+		(end 186.509 90.291)
+		(width 2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "3d3bd9cc-6079-4c05-88e8-e12e738ed5cb")
+	)
+	(segment
+		(start 194.892 84.328)
+		(end 193.682 83.118)
+		(width 2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "5872cdf3-8928-43cb-9c4f-060d657f5e6c")
+	)
+	(segment
+		(start 192.592 89.408)
+		(end 191.382 90.618)
+		(width 2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "0d1e7110-a0c3-4ab8-af65-1ddfd3bc08a6")
+	)
+	(segment
+		(start 202.8595 89.408)
+		(end 192.592 89.408)
+		(width 2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "0faa8b77-51d6-4458-9825-aee9f8818f57")
+	)
+	(segment
+		(start 191.382 90.618)
+		(end 188.181 93.819)
+		(width 2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "30aff673-6348-4fa0-8a26-bd7ad6b339dc")
+	)
+	(segment
+		(start 188.181 93.819)
+		(end 185.203813 93.819)
+		(width 2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "57315a8d-3c42-4474-aeb1-86e1105da4f6")
+	)
+	(segment
+		(start 183.812 83.048)
+		(end 183.009 83.048)
+		(width 2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "9725e533-f099-4990-b79b-84495e2550d0")
+	)
+	(segment
+		(start 185.203813 93.819)
+		(end 183.009 91.624187)
+		(width 2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "e5b432ee-509d-4274-9140-9e887fa1a532")
+	)
+	(segment
+		(start 183.009 91.624187)
+		(end 183.009 83.048)
+		(width 2)
+		(layer "B.Cu")
+		(net 76)
+		(uuid "fdaf3c4f-4933-4a6a-b6af-134c81eea717")
 	)
 	(segment
 		(start 62.7656 92.456)
